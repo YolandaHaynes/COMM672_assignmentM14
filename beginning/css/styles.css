@@ -9,13 +9,16 @@
     color: white; 
 }
 
-#testimonials {
+.testimonial-section{
     background-color: #212E4F;
     color: white;
-    padding: 0 50px 0 50px;
 }
 
 #testimonials .nav-tabs .nav-link.active {
     color:black !important;
 }
 
+.contact-section{
+    background-color:rgb(250, 248, 245);
+    padding-bottom: 1rem;
+}
